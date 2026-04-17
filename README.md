@@ -1,3 +1,3 @@
 # App-symm
-Bio
+Bio::
 My name is Zach and I am currently finishing up my first year at college, majoring in Computer Science with a focus on Cybersecurity and Networking. Took a rather long path to get here; dropping out of highschool when I was 16, I am now 43 and have spent the last 20 years learning everything I could about music composition, production, sound design, and acclimating to how systems work in theory. I have also picked up skills along the way relating to off-site situational problem solving and working/creating with my hands in real-world fields. Now I am more interested in testing my knowledge on ghe academic side of things. So far? So good. 30 course hours down with a 4.0 GPA. Am excited and curious to discover how far I can go before crashing amd burning out. The documentation will be available here for anyone interested. The future's pending. Will apend.
